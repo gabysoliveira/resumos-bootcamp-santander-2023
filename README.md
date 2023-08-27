@@ -16,6 +16,7 @@ Termino previsto 22/10/2023
 |--------|---------|
 |Organizando seus Estudos com os Roadmaps DIO e o Notion|[Resumo](https://bootcamp-da-gaby.notion.site/Programa-o-ac913bb2d0224e3e81201bac8e01d421?pvs=4)
 |Versionamento de Código com Git e GitHub | [Resumo](https://www.notion.so/bootcamp-da-gaby/Curso-Versionamento-de-C-digo-com-Git-e-GitHub-2687f272104b4fb59da3c110877c532b?pvs=4)
+|Desafios de Projetos: Crie Um Portfólio Vencedor | [Resumo](https://www.notion.so/bootcamp-da-gaby/Projeto-Crie-Um-Portf-lio-Vencedor-4a86516d8a0c43368e105831ece37f8d?pvs=4)|
 
 - Os códigos estão em tabelas no arquivo.
 

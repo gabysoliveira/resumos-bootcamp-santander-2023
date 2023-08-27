@@ -17,6 +17,8 @@ Termino previsto 22/10/2023
 |Organizando seus Estudos com os Roadmaps DIO e o Notion|[Resumo](https://bootcamp-da-gaby.notion.site/Programa-o-ac913bb2d0224e3e81201bac8e01d421?pvs=4)
 |Versionamento de Código com Git e GitHub | [Resumo](https://www.notion.so/bootcamp-da-gaby/Curso-Versionamento-de-C-digo-com-Git-e-GitHub-2687f272104b4fb59da3c110877c532b?pvs=4)
 
+- Os códigos estão em tabelas no arquivo.
+
 ## 🔍  Referências
  
 - [Digital Innovation One](https://web.dio.me/track/bf7abb82-1324-4074-9949-f474a1a911fe).

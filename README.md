@@ -10,7 +10,7 @@ Termino previsto 22/10/2023
 - [Documentação Git](https://git-scm.com/docs)
 - [Documentação GitHub](https://docs.github.com/pt/get-started)
 
-## 📃  Resumos das Aulas
+## 📃  Resumos dos Cursos
 
 | Cursos | Resumos|
 |--------|---------|
